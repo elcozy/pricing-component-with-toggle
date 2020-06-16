@@ -9,7 +9,7 @@ body {
   font-weight: 700;
   color: #6d708d;
   background: #f7f7ff;
-  background-image: url("/images/bg-top.svg"), url("/images/bg-bottom.svg");
+  background-image: url("../images/bg-top.svg"), url("../images/bg-bottom.svg");
   background-repeat: no-repeat;
   background-position: top right, bottom left;
   font-size: 15px;
